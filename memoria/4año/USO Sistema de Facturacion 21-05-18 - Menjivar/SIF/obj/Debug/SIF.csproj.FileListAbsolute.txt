@@ -1,0 +1,108 @@
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\bin\Debug\SIF.exe.config
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\bin\Debug\SIF.exe
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\bin\Debug\SIF.pdb
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\obj\Debug\SIF.csprojResolveAssemblyReference.cache
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\obj\Debug\SIF.Properties.Resources.resources
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\obj\Debug\SIF.csproj.GenerateResource.Cache
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\obj\Debug\SIF.exe
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\obj\Debug\SIF.pdb
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\obj\Debug\SIF.Splash.resources
+c:\users\pc-44\documents\visual studio 2015\Projects\Sistema de Facturacion\SIF\obj\Debug\SIF.Login.resources
+E:\ARCHIVOS\Sistema de Facturacion\SIF\bin\Debug\SIF.exe.config
+E:\ARCHIVOS\Sistema de Facturacion\SIF\obj\Debug\SIF.exe
+E:\ARCHIVOS\Sistema de Facturacion\SIF\obj\Debug\SIF.pdb
+E:\ARCHIVOS\Sistema de Facturacion\SIF\bin\Debug\SIF.exe
+E:\ARCHIVOS\Sistema de Facturacion\SIF\bin\Debug\SIF.pdb
+E:\ARCHIVOS\Sistema de Facturacion\SIF\bin\Debug\DataController.dll
+E:\ARCHIVOS\Sistema de Facturacion\SIF\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\Sistema de Facturacion\SIF\bin\Debug\DataController.pdb
+E:\ARCHIVOS\Sistema de Facturacion\SIF\obj\Debug\SIF.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\Sistema de Facturacion\SIF\obj\Debug\SIF.Login.resources
+E:\ARCHIVOS\Sistema de Facturacion\SIF\obj\Debug\SIF.Properties.Resources.resources
+E:\ARCHIVOS\Sistema de Facturacion\SIF\obj\Debug\SIF.Prueba.resources
+E:\ARCHIVOS\Sistema de Facturacion\SIF\obj\Debug\SIF.Splash.resources
+E:\ARCHIVOS\Sistema de Facturacion\SIF\obj\Debug\SIF.csproj.GenerateResource.Cache
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\SIF.exe.config
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\obj\Debug\SIF.exe
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\obj\Debug\SIF.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\SIF.exe
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\SIF.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\DataController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\DataController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\obj\Debug\SIF.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Login.resources
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Properties.Resources.resources
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Prueba.resources
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Splash.resources
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\obj\Debug\SIF.csproj.GenerateResource.Cache
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Principal.resources
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\SessionController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\SessionController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\CacheController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SIF\bin\Debug\CacheController.pdb
+G:\USO Sistema de Facturacion\SIF\bin\Debug\SIF.exe.config
+G:\USO Sistema de Facturacion\SIF\obj\Debug\SIF.exe
+G:\USO Sistema de Facturacion\SIF\obj\Debug\SIF.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\SIF.exe.config
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\SIF.exe
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\SIF.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\DataController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\SessionController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\MySql.Data.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\CacheController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\DataController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\SessionController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\CacheController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\obj\Debug\SIF.csprojResolveAssemblyReference.cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Login.resources
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Principal.resources
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Properties.Resources.resources
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Prueba.resources
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Splash.resources
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\obj\Debug\SIF.csproj.GenerateResource.Cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\obj\Debug\SIF.exe
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\obj\Debug\SIF.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\GestionBasica.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SIF\bin\Debug\GestionBasica.pdb
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\SIF.exe.config
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.exe
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.pdb
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\SIF.exe
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\SIF.pdb
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\DataController.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\GestionBasica.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\SessionController.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\MySql.Data.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CacheController.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\DataController.pdb
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\GestionBasica.pdb
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\SessionController.pdb
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CacheController.pdb
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.csprojResolveAssemblyReference.cache
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Login.resources
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Principal.resources
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Properties.Resources.resources
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Prueba.resources
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.Splash.resources
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.csproj.GenerateResource.Cache
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.Shared.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\FlashControlV71.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\ShockwaveFlashObjects.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\APP\USO Sistema de Facturacion\SIF\bin\Debug\stdole.dll
+E:\APP\USO Sistema de Facturacion\SIF\obj\Debug\SIF.GUI.VisorLibroVentas.resources

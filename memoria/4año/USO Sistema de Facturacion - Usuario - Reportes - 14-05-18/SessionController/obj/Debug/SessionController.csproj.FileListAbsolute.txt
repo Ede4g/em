@@ -1,0 +1,80 @@
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\MySql.Data.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\MySql.Data.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.pdb
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\SessionController.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\SessionController.pdb
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\CacheController.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\DataController.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\MySql.Data.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\CacheController.pdb
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\DataController.pdb
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\obj\Debug\SessionController.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\SessionController\obj\Debug\SessionController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\SessionController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\SessionController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\CacheController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\DataController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\CacheController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\bin\Debug\DataController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\obj\Debug\SessionController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\SessionController\obj\Debug\SessionController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\bin\Debug\SessionController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\bin\Debug\SessionController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\bin\Debug\CacheController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\bin\Debug\DataController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\bin\Debug\CacheController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\bin\Debug\DataController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\obj\Debug\SessionController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\SessionController\obj\Debug\SessionController.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\SessionController.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\SessionController.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\CacheController.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\DataController.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\MySql.Data.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\CacheController.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\DataController.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\obj\Debug\SessionController.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\obj\Debug\SessionController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\SessionController.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\SessionController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\CacheController.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\DataController.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\MySql.Data.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\CacheController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\bin\Debug\DataController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\obj\Debug\SessionController.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\SessionController\obj\Debug\SessionController.pdb

@@ -1,0 +1,1 @@
+SELECT NombreProducto,Cantidad, max(suma(Cantidad)) from detallesfacturas group by NombreProducto,Cantidad;

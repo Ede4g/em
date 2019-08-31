@@ -1,0 +1,27 @@
+<?php
+class Personas extends CI_Model{
+	//constructor de la clase
+	public function _construct()
+	{
+	   $this->load->database();
+	}
+	//funcion para obtener las personas de la base de datos
+	public function getPersonas()
+	{
+	   $query = $this->db->get('persona');
+	   return $query->result_array();
+	}
+	//funcion para  insertar una persona a la bse de datos
+	public function createPersona()
+	{
+	   //obtenemos los datos
+	   $data = array ('Nombre=> $this->input->post('nombre')',
+			  'Apellido=> $this->input->post('apellido')',
+			  'Edad=> $this->input->post('edad')',
+			  'Genero=> $this->input->post('genero')',
+			  );
+	   //insertamos la informacion
+	   return $this->db->insert('persona',$data);
+	}
+}
+?>

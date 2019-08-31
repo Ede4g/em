@@ -1,0 +1,24 @@
+E:\ARCHIVOS\Sistema de Facturacion\DataController\bin\Debug\DataController.dll
+E:\ARCHIVOS\Sistema de Facturacion\DataController\bin\Debug\DataController.pdb
+E:\ARCHIVOS\Sistema de Facturacion\DataController\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\Sistema de Facturacion\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\Sistema de Facturacion\DataController\obj\Debug\DataController.dll
+E:\ARCHIVOS\Sistema de Facturacion\DataController\obj\Debug\DataController.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\DataController\bin\Debug\DataController.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\DataController\bin\Debug\DataController.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\DataController\bin\Debug\MySql.Data.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\DataController\obj\Debug\DataController.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\DataController\obj\Debug\DataController.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\bin\Debug\DataController.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\bin\Debug\DataController.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\bin\Debug\MySql.Data.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\obj\Debug\DataController.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\obj\Debug\DataController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\bin\Debug\DataController.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\bin\Debug\DataController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\bin\Debug\MySql.Data.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\obj\Debug\DataController.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\DataController\obj\Debug\DataController.pdb

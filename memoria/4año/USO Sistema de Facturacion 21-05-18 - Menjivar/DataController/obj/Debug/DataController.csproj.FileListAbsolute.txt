@@ -1,0 +1,12 @@
+E:\ARCHIVOS\Sistema de Facturacion\DataController\bin\Debug\DataController.dll
+E:\ARCHIVOS\Sistema de Facturacion\DataController\bin\Debug\DataController.pdb
+E:\ARCHIVOS\Sistema de Facturacion\DataController\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\Sistema de Facturacion\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\Sistema de Facturacion\DataController\obj\Debug\DataController.dll
+E:\ARCHIVOS\Sistema de Facturacion\DataController\obj\Debug\DataController.pdb
+E:\APP\USO Sistema de Facturacion\DataController\bin\Debug\DataController.dll
+E:\APP\USO Sistema de Facturacion\DataController\bin\Debug\DataController.pdb
+E:\APP\USO Sistema de Facturacion\DataController\bin\Debug\MySql.Data.dll
+E:\APP\USO Sistema de Facturacion\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+E:\APP\USO Sistema de Facturacion\DataController\obj\Debug\DataController.dll
+E:\APP\USO Sistema de Facturacion\DataController\obj\Debug\DataController.pdb

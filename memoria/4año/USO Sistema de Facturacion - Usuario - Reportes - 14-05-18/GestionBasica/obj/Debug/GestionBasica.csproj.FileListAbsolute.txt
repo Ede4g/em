@@ -1,0 +1,127 @@
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\GestionBasica.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\GestionBasica.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\CacheController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\DataController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\SessionController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\MySql.Data.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\CacheController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\DataController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\SessionController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\GestionBasica.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\GestionBasica.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\CacheController.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\DataController.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\SessionController.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\MySql.Data.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\CacheController.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\DataController.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\SessionController.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.dll
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+C:\Users\TEMP\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\GestionBasica.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\GestionBasica.pdb
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\CacheController.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\DataController.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\SessionController.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\MySql.Data.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\CacheController.pdb
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\DataController.pdb
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\SessionController.pdb
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.dll
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionUsuario.resources
+C:\Users\pamel\OneDrive\Desktop\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.GestionUsuarios.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\GestionBasica.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\GestionBasica.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\CacheController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\DataController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\SessionController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\CacheController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\DataController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\bin\Debug\SessionController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionUsuario.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.GUI.GestionUsuarios.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Empleados\GestionBasica\obj\Debug\GestionBasica.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\bin\Debug\GestionBasica.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\bin\Debug\GestionBasica.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\bin\Debug\CacheController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\bin\Debug\DataController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\bin\Debug\SessionController.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\bin\Debug\CacheController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\bin\Debug\DataController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\bin\Debug\SessionController.pdb
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionUsuario.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.GUI.GestionUsuarios.resources
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.dll
+E:\ARCHIVOS\2018\DESARROLLO2\LABDS2\USO Sistema de Facturacion - Usuario\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionUsuario.resources
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.GestionUsuarios.resources
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\GestionBasica.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\GestionBasica.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\CacheController.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\DataController.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\SessionController.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\MySql.Data.dll
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\CacheController.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\DataController.pdb
+C:\Users\PC-27\Desktop\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\SessionController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\GestionBasica.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\GestionBasica.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\CacheController.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\DataController.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\SessionController.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\MySql.Data.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\CacheController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\DataController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\bin\Debug\SessionController.pdb
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionUsuario.resources
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.GUI.GestionUsuarios.resources
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.dll
+E:\USO Sistema de Facturacion - Usuario - Reportes - 14-05-18\GestionBasica\obj\Debug\GestionBasica.pdb
